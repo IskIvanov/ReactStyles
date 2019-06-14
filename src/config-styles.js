@@ -1,4 +1,4 @@
-export default{
-	imageWidth: 640,
-	imageHeight: 420
+export default {
+  imageWidth: 640,
+  imageHeight: 420
 }
